@@ -52,6 +52,7 @@ typings/
 
 # Optional eslint cache
 .eslintcache
+.eslint.config.js
 
 # Microbundle cache
 .rpt2_cache/

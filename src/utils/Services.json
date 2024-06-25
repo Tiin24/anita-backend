@@ -1,43 +1,42 @@
 [
-    {
-      "id": 1,
-      "nombre": "Corte de Cabello",
-      "price": 20.0
-    },
-    {
-      "id": 2,
-      "nombre": "Coloración",
-      "price": 60.0
-    },
-    {
-      "id": 3,
-      "nombre": "Peinado",
-      "price": 30.0
-    },
-    {
-      "id": 4,
-      "nombre": "Tratamiento Capilar",
-      "price": 50.0
-    },
-    {
-      "id": 5,
-      "nombre": "Alisado",
-      "price": 100.0
-    },
-    {
-      "id": 6,
-      "nombre": "Corte de Barba",
-      "price": 15.0
-    },
-    {
-      "id": 7,
-      "nombre": "Extensiones",
-      "price": 200.0
-    },
-    {
-      "id": 8,
-      "nombre": "Ondulado Permanente",
-      "price": 80.0
-    }
-  ]
-  
+  {
+    "id": 1,
+    "nombre": "Corte de Cabello",
+    "price": 20.0
+  },
+  {
+    "id": 2,
+    "nombre": "Coloración",
+    "price": 60.0
+  },
+  {
+    "id": 3,
+    "nombre": "Peinado",
+    "price": 30.0
+  },
+  {
+    "id": 4,
+    "nombre": "Tratamiento Capilar",
+    "price": 50.0
+  },
+  {
+    "id": 5,
+    "nombre": "Alisado",
+    "price": 100.0
+  },
+  {
+    "id": 6,
+    "nombre": "Corte de Barba",
+    "price": 15.0
+  },
+  {
+    "id": 7,
+    "nombre": "Extensiones",
+    "price": 200.0
+  },
+  {
+    "id": 8,
+    "nombre": "Ondulado Permanente",
+    "price": 80.0
+  }
+]
